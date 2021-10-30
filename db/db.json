@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "username": "gagana",
+      "mobile-number": "12345",
+      "password": "asdf",
+      "confirm-password": "asdf",
+      "dob": "23/10/1999",
+      "id": 1
+    },
+    {
+      "username": "tony",
+      "mobilenumber": 99887766,
+      "password": "123456",
+      "confirmpassword": "123456",
+      "dob": "1/2/2000",
+      "id": 2
+    },
+    {
+      "username": "bruce",
+      "mobilenumber": 12345,
+      "password": "12345",
+      "confirmpassword": "1234",
+      "dob": "1/2/2009",
+      "id": 3
+    },
+    {
+      "username": "doe",
+      "mobilenumber": 99889988,
+      "password": "asdfg",
+      "confirmpassword": "asdfg3/",
+      "dob": "3/4/2008",
+      "id": 4
+    }
+  ]
+}
